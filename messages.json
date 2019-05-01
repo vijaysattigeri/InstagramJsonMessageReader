@@ -1,0 +1,40 @@
+[
+    {
+        "participants": [
+            "Sender_User_Name",
+            "Recipient_User_Name"
+        ],
+        "conversation": [
+            {
+                "sender": "Recipient_User_Name",
+                "created_at": "2019-04-27T15:41:11.354035+00:00",
+                "text": "This text has emoji's 😊😊😊😊😊😊"
+            },
+            {
+                "sender": "Sender_User_Name",
+                "created_at": "2019-04-27T15:38:42.193486+00:00",
+                "text": "I am great!"
+            },
+            {
+                "sender": "Recipient_User_Name",
+                "created_at": "2019-04-27T15:37:27.470518+00:00",
+                "text": "😊 Fine. What's up with you?"
+            },
+            {
+                "sender": "Sender_User_Name",
+                "created_at": "2019-04-27T15:32:43.176675+00:00",
+                "text": "How are you doing?"
+            },
+            {
+                "sender": "Recipient_User_Name",
+                "created_at": "2019-04-27T14:10:55.955346+00:00",
+                "text": "Hello..."
+            },
+            {
+                "sender": "Sender_User_Name",
+                "created_at": "2019-04-27T13:01:01.776818+00:00",
+                "text": "Hi it's my first text"
+            }
+        ]
+    }
+]
